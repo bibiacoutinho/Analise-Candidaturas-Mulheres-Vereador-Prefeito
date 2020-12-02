@@ -19,8 +19,10 @@ https://cepespdata.io/consulta/candidatos
   <img src="/vereador.png">
   <img src="/prefeito.png">
   <img src="/analise.png">
+  <img src="/analise2.png">
 </div>
 
 ---
 
 ### **Conclusão**
+A partir da análise do período de 2004 a 2016, foi possível concluir que o ano de 2008 foi o ano com menor variação da quantidade de candidaturas para vereadoras em relação às candidaturas para prefeito (10.9%). Já no ano de 2016, foi o ano com a maior variação (20%).
