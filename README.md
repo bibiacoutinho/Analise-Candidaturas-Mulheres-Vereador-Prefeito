@@ -15,7 +15,11 @@ https://cepespdata.io/consulta/candidatos
 
 ### **Análise**
 
-
+<div align="center">
+  <img src="/vereador.png">
+  <img src="/prefeito.png">
+  <img src="/analise.png">
+</div>
 
 ---
 
